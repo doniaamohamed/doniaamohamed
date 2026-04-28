@@ -33,5 +33,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doniaamohamed&show_icons=true&theme=tokyonight&hide_border=true" alt="Donia's GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=doniaamohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
